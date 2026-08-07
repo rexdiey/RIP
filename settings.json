@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 4600,
+      "repeat-delay": 300,
       "messages": [
         "Hello, Welcome to CraftexSMP!",
         "Visit the CraftexSMP official website at https://craftex.rexd.space/",
