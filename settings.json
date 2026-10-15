@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mc.rexd.space",
-    "port": 8744,
+    "ip": "nl-01.freezehost.pro",
+    "port": 8644,
     "version": "",
     "try-creative": false
   },
